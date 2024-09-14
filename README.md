@@ -1,7 +1,7 @@
 # COVID-19 Tracker Application
 
 <p align="center">
-  <a href="https://github.com/HarshCasper/COVID-Tracker">
+  <a href="https://github.com/yasar-arafath/COVID-Tracker">
     <img src="https://s3.xopic.de/openwho-public/channels/7fSc4JEBeO9H0P4b8d1Cfq/logo_v1.png" alt="Logo" width="150" height="120">
   </a>
   
@@ -21,7 +21,7 @@
 2. Clone the Repo by going to your local Git Client and pushing in the command: 
 
 ```sh
-https://github.com/HarshCasper/COVID-Tracker.git
+https://github.com/yasar-arafath/COVID-Tracker.git
 ```
 
 3. Install the Node Modules: 
@@ -36,4 +36,4 @@ npm start
 
 ## 📜 LICENSE
 
-[MIT](https://github.com/HarshCasper/COVID-Tracker/blob/master/LICENSE)
+[MIT](https://github.com/yasar-arafath/COVID-Tracker/blob/master/LICENSE)
